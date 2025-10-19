@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">I’m a Frontend React.js Engineer with ~3 years of experience in building scalable and user-centric web applications.<br>My expertise includes React.js, JavaScript (ES6+), and TypeScript, focusing on creating responsive UIs, reusable components, and interactive dashboards using Material UI and Ant Design.<br>I’m skilled in API integration (REST, WebSockets), authentication (Keycloak, JWT), and state management with Redux and Redux-Saga.<br>I’m passionate about clean, maintainable code, performance optimization, and working in Agile environments to deliver seamless user experiences.</h4>
 
 ###
@@ -14,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">💻 3+ years of experience in React.js and modern frontend development<br><br>⚙️ Strong in state management, API integration, and auth systems<br><br>🎨 Focused on UI/UX, responsive design, and reusable components<br><br>🚀 Hands-on with Redux, Redux-Saga, Jest, Material UI, and Ant Design<br><br>🔐 Experienced with Keycloak, JWT, and WebSocket integrations<br><br>🧠 Passionate about problem-solving and writing clean, scalable code<br><br>🤝 Thrive in Agile Scrum teams and love collaborating across functions<br><br>🌱 Always learning new tools and techniques to enhance frontend architecture</p>
+<p align="left">💻 ~3 years of experience in React.js and modern frontend development<br><br>⚙️ Strong in state management, API integration, and auth systems<br><br>🎨 Focused on UI/UX, responsive design, and reusable components<br><br>🚀 Hands-on with Redux, Redux-Saga, Jest, Material UI, and Ant Design<br><br>🔐 Experienced with Keycloak, JWT, and WebSocket integrations<br><br>🧠 Passionate about problem-solving and writing clean, scalable code<br><br>🤝 Thrive in Agile Scrum teams and love collaborating across functions<br><br>🌱 Always learning new tools and techniques to enhance frontend architecture</p>
 
 ###
 
